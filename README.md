@@ -1,6 +1,6 @@
 # WhatsApp Python Messenger
  
-With this code you can send massive marketing campainings on WhatsApp using selinium.
+With this code you can send massive marketing campainings on WhatsApp using selenium.
 
 <div align=center>
 

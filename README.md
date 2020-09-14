@@ -1,4 +1,4 @@
-# WhatsApp Python Messenger
+# WhatsApp Selenium Bot
  
 With this code you can send massive marketing campaigns on WhatsApp using selenium.
 
